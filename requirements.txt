@@ -1,0 +1,30 @@
+# Requirements pour le Projet Final - Data Science (TI 206 - A02)
+# Python 3.14.0
+
+# Manipulation de données
+pandas==3.0.2
+numpy==2.4.4
+
+# Visualisation
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.8.0
+scipy==1.17.1
+
+# Jupyter & Notebook
+jupyter==1.1.1
+jupyterlab==4.5.6
+notebook==7.5.5
+ipykernel==7.2.0
+ipywidgets==8.1.8
+
+# Utilities
+pandas-profiling>=2.0.0  # Pour l'analyse EDA avancée (optionnel)
+
+# Notes:
+# - Tous les packages sont à jour (avril 2026)
+# - L'environnement virtuel .venv est déjà configuré
+# - Pour installer manuellement: pip install -r requirements.txt
+# - Pour créer une nouvelle venv: python -m venv .venv
