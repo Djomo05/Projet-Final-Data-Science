@@ -252,7 +252,7 @@ Pour toute question ou problème:
 
 ## LICENCE & DROITS D'AUTEUR
 
-Projet académique pour le cours TI 206 - Université [À Compléter]
+Projet académique pour le cours TI 206 - Université de Saint-Boniface
 Tous les droits réservés aux auteurs.
 
 ---
